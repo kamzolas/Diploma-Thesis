@@ -1,4 +1,4 @@
-# Diploma Thesis
+# Diploma Thesis (Computer Engineering and Informatics Department, 2015)
 Design, implementation and application of computational intelligence methods, for the prediction of intrinsically disordered proteins
 
 The discovery of intrinsically disordered proteins (IDPs) (i.e., biologically active proteins that do not possess stable secondary and/or tertiary structures) came as an unexpected surprise, as the existence of such proteins is in contradiction to the traditional "sequence structure function" paradigm. Accurate prediction of a protein's predisposition to be intrinsically disordered is a necessary prerequisite for the further understanding of principles and mechanisms of protein folding and function, and is a key for the elaboration of a new structural and functional hierarchy of proteins. 
